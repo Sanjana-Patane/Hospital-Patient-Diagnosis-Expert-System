@@ -1,0 +1,18 @@
+------------------------------------------
+ HOSPITAL PATIENT DIAGNOSIS EXPERT SYSTEM
+------------------------------------------
+Enter three symptoms.
+
+Enter first symptom: fever.
+Symptom recorded: fever.
+
+Enter second symptom: cough.
+Symptom recorded: cough.
+
+Enter third symptom: body_pain.
+Symptom recorded: body_pain.
+
+Analyzing patient symptoms...
+
+Possible Condition: flu
+Recommendation: Take rest and drink enough fluids.
